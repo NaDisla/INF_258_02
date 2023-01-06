@@ -7,4 +7,5 @@ is_student = True # Tipo de dato boolean
 Comentario multilínea
 """
 #Mel Mendoza
-#Melquisedec Sarante
+#juan brito
+#Melquisedec
